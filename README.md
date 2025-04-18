@@ -1,1 +1,4 @@
-# cantonesecultureclubatucsd.github.io
+CCC Website,
+
+* Main = stable version
+* Master = in progress version
